@@ -1,0 +1,2 @@
+# smp
+Sourcemod Package Manager
